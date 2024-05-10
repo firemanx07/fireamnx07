@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghassen MELLASSI</h1>
-<h3 align="center">a results-driven Mobile Technical Lead based in Sousse, Tunisia, with a knack for crafting exceptional mobile solutions. 📱</h3>
+<h3 align="center">A results-driven Mobile Technical Lead based in Sousse, Tunisia, with a knack for crafting exceptional mobile solutions. 📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firemanx07&label=Profile%20views&color=0e75b6&style=flat" alt="firemanx07" /> </p>
 
